@@ -1,0 +1,9 @@
+streamlit
+pillow
+pytesseract
+language-tool-python
+langdetect
+transformers
+torch
+opencv-python-headless
+numpy
